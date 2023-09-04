@@ -1,5 +1,4 @@
 # datasciencecoursera
-GMS4L
 How to share data with a statistician
 ===========
 
